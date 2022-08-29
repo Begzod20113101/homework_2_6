@@ -1,0 +1,168 @@
+.container{
+    display: flex;
+    width: 1400px;
+    margin: 0 auto;
+    border: 2px solid #FFFFFF;
+    padding: 20px;
+background: #FFFFFF;
+}
+
+
+.nav{
+    justify-content: space-between;
+    margin-left: 900px;
+    display: flex;
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.nav__link{
+    justify-content: space-around;
+    margin: 15px;
+    text-decoration: none;
+
+}
+
+
+.button{
+    width: 146px;
+height: 40px;
+    position: absolute;
+    left: 1300px;
+    top: 30px; 
+    background-color: white;
+}
+
+
+.header_img{
+    margin-left: 95px;
+    position: absolute;
+    top: 45px;
+}
+.logo{
+    
+    width: 1440px;
+    background: #2D2641;
+    margin: 0 auto ;
+    border: 1px solid #2D2641;
+    height: 600px;
+}
+.line{
+    position: absolute;
+    width: 150px;
+    border: 1px solid #FFFFFF;;
+    height: 1px;
+    left: 165px;
+top: 185px;
+background: #FFFFFF;
+}
+.logo__text{
+    font-size: 78px;
+    color: white;
+    width: 40%;
+    margin-left: 110px;
+    margin-top: 10%;
+}
+.logo__main{
+    color: white;
+    font-size: 16px;
+    width: 30%;
+    margin-left: 105px;
+}
+.img{
+    width: 500px;
+    height: 600px;
+    margin-left: 50%;
+    margin-top: -300px;
+}
+.line2{
+    width: 150px;
+    height: 1px;
+    border: 1px solid #c396c6;
+    background: #C396C6;
+    margin-left: 165px;
+    margin-top: 300px;
+}
+.benner__text{
+    font-size: 72px;
+    margin-left: 170px;
+}
+.raklama{
+    display: flex;
+    width: 1330px;
+    height: 474px;
+    margin-left: 170px;
+}
+.card1{
+    margin: 20px;
+    
+}
+.mask{
+    display: flex;
+    width: 1330px;
+    height: 200px;
+    margin-left: 150px;
+    background: #2D2641;
+border: 1px solid #2D2641;
+}
+.mask_text{
+    color: #FFFFFF;
+    font-size: 56px;
+    width: 490px;
+    margin-left: 50px   ;
+}
+.mask__button{
+    width: 146px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid;
+    margin-top: 90px;
+    background: #2D2641;
+    margin-left: 500px;
+}
+.section{
+    width: 1440px;
+    background: #FAFAFA;
+    margin: 0 auto ;
+    border: 1px solid#FAFAFA;;
+    height: 393px;
+    margin-top: 150px;
+}
+.section__header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+}
+.saction__nav__link{
+    margin: 20px;
+}
+.header__card{
+    display: flex;
+}
+.section__card{
+    width: 100px;
+    height: 200px;
+    margin: 100px;
+margin-left: 150px;
+}
+.section__card__link{
+    width: 120px;
+    text-decoration: none;
+  margin: 30px;
+  display: block;
+  color: black;
+  font-size: 13px;
+}
+.card__img{
+    margin: 30px;
+position: absolute;
+top: 2150px;
+
+}
